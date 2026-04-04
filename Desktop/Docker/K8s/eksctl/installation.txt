@@ -1,0 +1,5 @@
+eks.yaml
+Need to take three spot instances and mention 7 types of instance because 
+in spot instance it is difficult to get the large instance.
+ spot = true 
+ desire capacity =2
